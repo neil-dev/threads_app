@@ -1,0 +1,208 @@
+[
+  {
+    "id": "5f6e1f06-3031-433a-a413-d2e103d47544",
+    "data": [
+      {
+        "text": "I love to hear about ",
+        "userDefined": false
+      },
+      {
+        "text": "political news",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3718f50-fda0-4f17-82b1-077ea7972bcb",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "technology",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "alias": "interest-points1",
+        "meta": "@interest-points",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "games",
+        "alias": "interest-points2",
+        "meta": "@interest-points",
+        "userDefined": true
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "education",
+        "alias": "interest-points3",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "239c1c73-8a22-4d99-bf67-5246edd18f1c",
+    "data": [
+      {
+        "text": "My interests are ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "alias": "interest-points1",
+        "meta": "@interest-points",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "games",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f218de2-d79a-4257-b8f1-cbb55dea3c13",
+    "data": [
+      {
+        "text": "I love ",
+        "userDefined": false
+      },
+      {
+        "text": "technology",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "346ddd56-8f4a-4ce1-b878-a4251b8e4aaf",
+    "data": [
+      {
+        "text": "education",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a0a6787-c793-4d43-868a-4535cb08bd39",
+    "data": [
+      {
+        "text": "I will choose ",
+        "userDefined": false
+      },
+      {
+        "text": "games",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "technology",
+        "alias": "interest-points1",
+        "meta": "@interest-points",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "alias": "interest-points2",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddb00246-54c2-4570-b9af-45d978b8ccaf",
+    "data": [
+      {
+        "text": "Politics",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb0b9518-3a0f-456f-aa92-fe2e58b56863",
+    "data": [
+      {
+        "text": "I choose ",
+        "userDefined": false
+      },
+      {
+        "text": "technology",
+        "alias": "interest-points1",
+        "meta": "@interest-points",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "alias": "interest-points",
+        "meta": "@interest-points",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
