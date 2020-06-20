@@ -1,0 +1,45 @@
+[
+  {
+    "value": "Technology",
+    "synonyms": [
+      "Technology",
+      "Tech",
+      "New technology",
+      "new tech"
+    ]
+  },
+  {
+    "value": "Politics",
+    "synonyms": [
+      "Politics",
+      "Local politics",
+      "political news"
+    ]
+  },
+  {
+    "value": "Sports",
+    "synonyms": [
+      "Sports",
+      "Sport",
+      "Sports information",
+      "Sports news"
+    ]
+  },
+  {
+    "value": "Games",
+    "synonyms": [
+      "Games",
+      "Game",
+      "Video games",
+      "Mobile games",
+      "PC games"
+    ]
+  },
+  {
+    "value": "Education",
+    "synonyms": [
+      "Education",
+      "Education news"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "a326c32b-d364-45e6-9dff-c0c10c634c5e",
+  "name": "interest-points",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "e9a8bc82-1608-4567-8c91-d05c3ddfc6d8",
+  "name": "users_age_gender",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fd107fb3-4165-44eb-8cfb-74a7afafe5ee",
+          "required": true,
+          "dataType": "@sys.age",
+          "name": "age",
+          "value": "$age",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your age?"
+            },
+            {
+              "lang": "en",
+              "value": "How old are you?"
+            },
+            {
+              "lang": "en",
+              "value": "Let me know your age."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e1cd3e71-85cb-45fc-89cd-00de0d7158ec",
+          "required": true,
+          "dataType": "@gender",
+          "name": "gender",
+          "value": "$gender",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Let me know your gender."
+            },
+            {
+              "lang": "en",
+              "value": "What is your sex?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thanks. Your details have been stored. Now I want to know more about your point(s) of interest. So that we can connect with you to the like-minded people. So here are some points you can choose a few among them: Technology, Games, Sports, Politics, Education"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

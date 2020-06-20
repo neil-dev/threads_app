@@ -1,0 +1,91 @@
+{
+  "id": "839f3e66-38da-4774-9c05-437662004025",
+  "name": "users_interest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a7788fcf-6efb-4bf3-bae6-65db27684e23",
+          "required": false,
+          "dataType": "@interest-points",
+          "name": "interest-points1",
+          "value": "$interest-points1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d2d950b1-219f-4c1a-91af-7b097b8e512d",
+          "required": true,
+          "dataType": "@interest-points",
+          "name": "interest-points",
+          "value": "$interest-points",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "You need to select atleast one of them. Technology,Games, Sports, Politics and Education"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "743ed28d-f430-46b9-94fd-527d53f45a64",
+          "required": false,
+          "dataType": "@interest-points",
+          "name": "interest-points2",
+          "value": "$interest-points2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6f6484e1-a8ff-466e-ac9c-b41a958eff41",
+          "required": false,
+          "dataType": "@interest-points",
+          "name": "interest-points3",
+          "value": "$interest-points3",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Wow!! so you have chosen $interest-points, $interest-points1, $interest-points2, $interest-points3 now enjoy the company of people like you.",
+            "Wow!! so you have chosen $interest-points now enjoy the company of people like you.",
+            "Wow!! so you have chosen $interest-points, $interest-points1 now enjoy the company of people like you.",
+            "Wow!! so you have chosen $interest-points, $interest-points1, $interest-points2 now enjoy the company of people like you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
