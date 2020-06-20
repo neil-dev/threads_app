@@ -1,0 +1,54 @@
+{
+  "id": "145bb487-a4f1-4b38-a3ec-2e391569326d",
+  "name": "users_name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "78cc7b06-2618-4ef3-8a10-c074766fd73e",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know your name please?"
+            },
+            {
+              "lang": "en",
+              "value": "What is your name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay $given-name, also tell me your age and gender."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
