@@ -1,6 +1,11 @@
 # Threads
-The app is all about matching people having similar interests 👩🏼‍🤝‍🧑🏼 while maintaining complete anonymity. This project is made during **[HackJaipur Hackathon](https://hackjaipur.com/)** under the Diversity theme: Diversity means the inclusion of all individuals as technology does not discriminate. How can technology help to increase diversity and maintain it?  
-  
+The app is all about matching people having similar interests 👩🏼‍🤝‍🧑🏼 while maintaining complete anonymity. This project is made during **[HackJaipur Hackathon](https://hackjaipur.com/)** under the Diversity theme: Diversity means the inclusion of all individuals as technology does not discriminate. How can technology help to increase diversity and maintain it?
+
+**🆔 Team Name:** Hashtags
+
+**💪Team Members:** [Manish Kumar Barnwal](https://github.com/imanishbarnwal), [Suvronil Biswas](https://github.com/neil-dev), [Ayushman](https://github.com/ayushmankumar7)
+
+**📽Video Link:** 
 
 ## 🤝 Moto behind this App
 In the world of development, people are always busy with their workload and daily routines. Due to maintaining professionalism across the social media platforms, they should share professional thoughts or inspiring quotations they were not able to post or share what they really want. 🤵 Even not able to talk to anyone openly cause of shyness of what they think about me.
