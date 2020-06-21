@@ -3,7 +3,7 @@ The app is all about matching people having similar interests 👩🏼‍🤝‍
 
 **🆔 Team Name:** Hashtags
 
-**💪 Team Members:** [Manish Kumar Barnwal](https://github.com/imanishbarnwal), [Suvronil Biswas](https://github.com/neil-dev), [Ayushman](https://github.com/ayushmankumar7)
+**💪 Team Members:** [Manish Kumar Barnwal](https://github.com/imanishbarnwal), [Suvranil Biswas](https://github.com/neil-dev), [Ayushman](https://github.com/ayushmankumar7)
 
 **📽 Video Link:** 
 
