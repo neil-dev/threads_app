@@ -10,11 +10,15 @@ class RegisterButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return RaisedButton(
+      color: Colors.red[300],
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(30.0),
       ),
       onPressed: _onPressed,
-      child: Text('Register'),
+      child: Text(
+        'Register',
+        style: TextStyle(color: Colors.white),
+      ),
     );
   }
 }

@@ -23,6 +23,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  equatable: ^1.1.1
+  splashscreen:
+  flutter_bloc: ^4.0.0
+  meta: ^1.1.8
+  rxdart: ^0.24.1
+  font_awesome_flutter: ^8.8.1
+  dash_chat: ^1.1.9
+  flutter_auth0: ^0.5.0
+  cloud_firestore: 
+  firebase_core: ^0.4.5
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -43,6 +53,9 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - assets/
 
   # To add assets to your application, add an assets section, like this:
   # assets:

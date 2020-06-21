@@ -1,4 +1,4 @@
-package com.example.threads_app
+package com.hashtags.threads
 
 import io.flutter.embedding.android.FlutterActivity
 

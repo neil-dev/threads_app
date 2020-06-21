@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:threads/user_repository.dart';
-import 'package:threads/authentication_bloc/authentication_bloc.dart';
-import 'package:threads/login/login.dart';
+import 'package:threads_app/user_repository.dart';
+import 'package:threads_app/authentication_bloc/authentication_bloc.dart';
+import 'package:threads_app/login/login.dart';
 
 class LoginForm extends StatefulWidget {
   final UserRepository _userRepository;
@@ -86,7 +86,7 @@ class _LoginFormState extends State<LoginForm> {
                 children: <Widget>[
                   Padding(
                     padding: EdgeInsets.symmetric(vertical: 20),
-                    child: Image.asset('assets/flutter_logo.png'),
+                    child: Image.asset('assets/icon.png'),
                   ),
                   TextFormField(
                     controller: _emailController,
@@ -124,7 +124,7 @@ class _LoginFormState extends State<LoginForm> {
                               ? _onFormSubmitted
                               : null,
                         ),
-                        GoogleLoginButton(),
+                        // GoogleLoginButton(),
                         CreateAccountButton(userRepository: _userRepository),
                       ],
                     ),
